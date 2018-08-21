@@ -2,7 +2,7 @@ module("luci.controller.filebrowser", package.seeall)
 
 function index()
 
-    page = entry({"admin", "system", "filebrowser"}, template("filebrowser"), _("文件管理"), 60)
+    page = entry({"admin", "system", "filebrowser"}, template("filebrowser"), _("Document Management"), 60)
     page.i18n = "base"
     page.dependent = true
 
