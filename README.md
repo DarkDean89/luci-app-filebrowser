@@ -1,4 +1,4 @@
-# luci-app-filebrowser -- web文件管理
+# luci-app-filebrowser -- web document management
 
 File browser app for OpenWrt/LEDE Luci backend
 
@@ -17,4 +17,4 @@ quick install or upgrade
 
 [luci-material-theme](https://github.com/LuttyYang/luci-theme-material)  recommended
 
-![列表截图](/screenshot.png?raw=true "Screenshot")
+![List screenshots](/screenshot.png?raw=true "Screenshot")
